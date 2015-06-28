@@ -17,7 +17,7 @@ namespace CodeJam2014.CookieClickerAlpha
         public Program()
         {
             StringBuilder sb = new StringBuilder();
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Tamás\SkyDrive\Dokumentumok\Visual Studio 2013\CodeJam2014.CookieClickerAlpha\CodeJam2014.CookieClickerAlpha\input.in");
+            string[] lines = System.IO.File.ReadAllLines(@"..\..\input.in");
 
             int cases = int.Parse(lines[0]);
 
@@ -63,7 +63,7 @@ namespace CodeJam2014.CookieClickerAlpha
 
             //Console.WriteLine(sb.ToString());
 
-            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Tamás\SkyDrive\Dokumentumok\Visual Studio 2013\CodeJam2014.CookieClickerAlpha\CodeJam2014.CookieClickerAlpha\\solution.out"))
+            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"..\..\solution.out"))
             {
                 file.Write(sb.ToString());
             }

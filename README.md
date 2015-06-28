@@ -21,6 +21,13 @@ https://code.google.com/codejam/contest/dashboard?c=2974486#s=p1
 my solution:
 https://github.com/hujtomi/Google-Code-Jam/tree/master/CodeJam2014.CookieClickerAlpha
 
+Problem D. Deceitful War
+https://code.google.com/codejam/contest/dashboard?c=2974486#s=p3
+
+my solution:
+https://github.com/hujtomi/Google-Code-Jam/tree/master/CodeJam2014.DeceitfulWar
+
+
 ##Topcoder SRMs
 
 http://topblogcoder.com/topcoder-c-srm-600-div-2/
