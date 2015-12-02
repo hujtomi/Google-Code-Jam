@@ -1,5 +1,5 @@
 # Google-Code-Jam
-source codes for google code jams and topcpder SRMs
+source codes for google code jams and topcoder SRMs
 
 ##Google code jam problems
 
