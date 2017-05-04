@@ -33,6 +33,18 @@ https://code.google.com/codejam/contest/8294486/dashboard
 my solution:
 https://github.com/hujtomi/Google-Code-Jam/tree/master/CodeJam2017.Cruise.Control
 
+Problem A. Oversized Pancake Flipper
+https://code.google.com/codejam/contest/3264486/dashboard
+
+my solution:
+https://github.com/hujtomi/Google-Code-Jam/tree/master/CodeJam2017.Oversized.Pancake.Flipper
+
+Problem B. Tidy Numbers
+https://code.google.com/codejam/contest/3264486/dashboard#s=p1
+
+my solution:
+https://github.com/hujtomi/Google-Code-Jam/tree/master/CodeJam2017.Tidy.Numbers
+
 ##Topcoder SRMs
 
 http://topblogcoder.com/topcoder-c-srm-600-div-2/
